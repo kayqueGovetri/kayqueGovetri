@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Botcity<br><br>💬 Ask me about Python, Automation, AWS.<br><br>📫 How to reach me govetrikayque@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/feed/
+🔭 I’m currently working at [Botcity](https://github.com/botcity-dev)<br><br>💬 Ask me about Python, Automation, AWS.<br><br>📫 How to reach me govetrikayque@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/feed/
 
 
 ## 🌐 Socials:
