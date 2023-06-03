@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at [Botcity](https://github.com/botcity-dev)<br><br>💬 Ask me about Python, Automation, Selenium, openCV and AWS.<br><br>📫 How to reach me govetrikayque@gmail.com and Kayque Govetri#5833 in discord <br><br>📄 Know about my [experiences](https://www.linkedin.com/in/kayquegovetri/)
+🔭 I’m currently working at [BotCity](https://github.com/botcity-dev)<br><br>💬 Ask me about Python, Automation, Selenium, openCV and AWS.<br><br>📫 How to reach me govetrikayque@gmail.com and Kayque Govetri#5833 in discord <br><br>📄 Know about my [experiences](https://www.linkedin.com/in/kayquegovetri/)
 
 
 ## 🌐 Socials:
