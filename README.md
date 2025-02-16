@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working at [BotCity](https://github.com/botcity-dev)<br><br>💬 Ask me about Python, Automation, Selenium, openCV and AWS.<br><br>📫 How to reach me govetrikayque@gmail.com and Kayque Govetri#5833 in discord <br><br>📄 Know about my [experiences](https://www.linkedin.com/in/kayquegovetri/)
+## 💫 About Me:
+🚀 **Solutions Architect & Software Developer** with 5+ years of experience building results-driven applications.  
+🔧 Specializing in **automation** and **data systems**, I design and implement large-scale **RPAs** and **data visualization platforms**, improving operational efficiency by up to **80%** through Python automation.  
+🎯 My focus is on aligning **technology with business strategy**, driving sustainable growth and innovation.  
+💡 Always open to discussing new ideas, collaborating on projects, and sharing knowledge—feel free to reach out!
 
 
 ## 🌐 Socials:
